@@ -1,0 +1,10 @@
+Beautiful Soup 中文文档
+python爬虫之Beautifulsoup模块用法详解 - 知乎
+Python爬虫：史上最详细的BeautifulSoup教程 - 简书
+网络爬虫之BeautifulSoup详解（含多个案例） - 知乎
+Beautiful Soup Documentation — Beautiful Soup 4.4.0 …
+功能强大的python包（七）：BeautifulSoup（HTML解析） - 知乎
+Beautiful Soup 4.12.0 文档 — Beautiful Soup 4.12.0 ...
+beautifulsoup4 · PyPI
+Beautiful Soup Documentation — Beautiful Soup 4.12.0 …
+Beautiful Soup 教程
