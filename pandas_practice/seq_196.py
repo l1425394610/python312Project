@@ -7,6 +7,7 @@ def delete_duplicate_emails(person: pd.DataFrame) -> None:
     # return
 
     min_id = person.groupby('email')['id'].transform('min')
+    print(min_id)
     removed_person = person[person['id'] != min_id]
     person.drop(removed_person.index, inplace=True)
 
@@ -17,5 +18,4 @@ if __name__ == '__main__':
         'email': ['john@example.com', 'bob@example.com', 'john@example.com']
     }
     df = pd.DataFrame(data)
-    df = df.drop_duplicates('email')
-    print(df)
+    delete_duplicate_emails(df)
